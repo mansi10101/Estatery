@@ -95,7 +95,7 @@ export const Properties = [
 		noOfBathrooms: 2,
 		dimensions: '5x7m',
 		country: 'India',
-		availableFrom: '12/4/22',
+		availableFrom: '11/12/24',
 	},
 	{
 		id: 2,
@@ -111,7 +111,7 @@ export const Properties = [
 		noOfBathrooms: 2,
 		dimensions: '6x7.5m',
 		country: 'United Kingdom',
-		availableFrom: '12/10/22',
+		availableFrom: '12/10/24',
 	},
 	{
 		id: 3,
@@ -127,7 +127,7 @@ export const Properties = [
 		noOfBathrooms: 3,
 		dimensions: '8x10m',
 		country: 'USA',
-		availableFrom: '12/1/22',
+		availableFrom: '12/1/25',
 	},
 	{
 		id: 4,
@@ -143,7 +143,7 @@ export const Properties = [
 		noOfBathrooms: 4,
 		dimensions: '6x7.5m',
 		country: 'USA',
-		availableFrom: '12/20/22',
+		availableFrom: '12/20/23',
 	},
 	{
 		id: 5,
@@ -159,7 +159,7 @@ export const Properties = [
 		noOfBathrooms: 2,
 		dimensions: '6x7.5m',
 		country: 'India',
-		availableFrom: '1/3/23',
+		availableFrom: '6/3/23',
 	},
 	{
 		id: 6,
@@ -175,7 +175,7 @@ export const Properties = [
 		noOfBathrooms: 2,
 		dimensions: '6x7.5m',
 		country: 'India',
-		availableFrom: '1/10/23',
+		availableFrom: '8/10/23',
 	},
 	{
 		id: 7,
@@ -191,7 +191,7 @@ export const Properties = [
 		noOfBathrooms: 2,
 		dimensions: '6x7.5m',
 		country: 'France',
-		availableFrom: '12/15/22',
+		availableFrom: '12/15/23',
 	},
 	{
 		id: 8,
@@ -207,6 +207,6 @@ export const Properties = [
 		noOfBathrooms: 2,
 		dimensions: '6x7.5m',
 		country: 'France',
-		availableFrom: '12/26/22',
+		availableFrom: '12/26/23',
 	},
 ];
